@@ -1,2 +1,2 @@
-# jovian-career
-A website to show job openings at jovian and accept applications 
+# jovian-careers-site
+A website showing job openings at Jovian
